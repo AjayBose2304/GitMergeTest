@@ -15,7 +15,10 @@ This is a sample Git Repository which I used to implement the merge strategy
 * Create a development branch from main
   * git branch development - creates a new branch locally
   * git checkout development - moves our existing workspace to development
-*   
+* Make changes to the workspace and push that to the remote
+  * git add --all
+  * git commit -m 'Initial Development Commit'
+  * git push origin development
 
 
   
