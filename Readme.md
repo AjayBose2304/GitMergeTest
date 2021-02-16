@@ -19,6 +19,8 @@ This is a sample Git Repository which I used to implement the merge strategy
   * git add --all
   * git commit -m 'Initial Development Commit'
   * git push origin development
-
+* Create 2 new branches feature1 and feature2
+  * git branch feature1
+  * git branch feature2
 
   
